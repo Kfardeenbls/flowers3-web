@@ -1,0 +1,41 @@
+.mainNavbar{
+    background-color: aqua;
+    position: fixed;
+}
+.DropdownContents{
+    padding: 0 30px;
+}
+.contents{
+    color: #08329f;
+    padding: 8px 20px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+/* .logo{
+    height: 40px;
+}
+.navbar{
+    background-color: #745256;
+}
+.content{
+    max-height: 100px;
+    padding-left: 16px;
+    gap: 39px;
+    width: 680px;
+}
+.form{
+    display: flex;
+    margin-left: 100px;
+}
+.logIn{
+    margin-left: 95px;
+    border-radius: 5px;
+    border: 1px gray solid;
+    width: 80px;
+} */
